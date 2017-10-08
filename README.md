@@ -1,2 +1,4 @@
 # microbit_stuff
-Some working microbic snippets
+
+Here i have some of my code snippets for the microbit go kit.
+
